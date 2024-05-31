@@ -9,12 +9,16 @@ redirect_from:
 
 About me
 ======
-I am currently a PhD candidate at Eindhoven University of Technology under the supervision of [Ulrike Schmidt-Kraepelin](https://sites.google.com/view/schmidt-kraepelin) and [Mark de Berg](https://www.tue.nl/en/research/researchers/mark-de-berg). I am interested in computational social choice topics such as participatory budgeting and liquid democracy.\
+I am currently a PhD candidate at Eindhoven University of Technology under the supervision of [Ulrike Schmidt-Kraepelin](https://sites.google.com/view/schmidt-kraepelin) and [Mark de Berg](https://www.tue.nl/en/research/researchers/mark-de-berg). I am interested in computational social choice topics such as truthfulness and fairness in different participatory budgeting settings.\
 After finishing my Master's in computer science at TU Berlin in 2022 I did a three months research internship at Universidad de Chile under supervision of [José Correa](https://www.dii.uchile.cl/~jcorrea/) and worked for six months at the University of Amsterdam under [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 
 
 Publications
 ------
+**Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms**\
+Mark de Berg, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
+[arXiv](https://arxiv.org/abs/2405.20303)
+
 **Anonymous and Copy-Robust Delegations for Liquid Democracy**\
 Markus Utke, Ulrike Schmidt-Kraepelin.\
 Advances in Neural Information Processing Systems 36 (NeurIPS 2023), December 2023.\
