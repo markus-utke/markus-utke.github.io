@@ -17,6 +17,7 @@ Publications
 ------
 **Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms**\
 Mark de Berg, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
+May 2024.
 [arXiv](https://arxiv.org/abs/2405.20303)
 
 **Anonymous and Copy-Robust Delegations for Liquid Democracy**\
