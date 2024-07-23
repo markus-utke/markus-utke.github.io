@@ -13,6 +13,15 @@ I am currently a PhD candidate at Eindhoven University of Technology under the s
 After finishing my Master's in computer science at TU Berlin in 2022 I did a three months research internship at Universidad de Chile under supervision of [José Correa](https://www.dii.uchile.cl/~jcorrea/) and worked for six months at the University of Amsterdam under [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 
 
+News
+------
+**06.07.2024** \
+I won the "Best young scholar paper" award for my Paper [Anonymous and Copy-Robust Delegations for Liquid Democracy](https://arxiv.org/abs/2307.01174) at the [17th Meeting of the Society for Social Choice and Welfare](https://website-50514.eventmaker.io/en/index) in Paris.
+
+**09.04.2024** \
+I presented [pabuviz.org](https://pabuviz.org/) at the [1st Conference of the European Network for Digital Democracy](https://www.eddy-network.eu/in-person-conference) in Rotterdam.
+
+
 Publications
 ------
 **Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms**\
