@@ -15,19 +15,35 @@ After finishing my Master's in computer science at TU Berlin in 2022 I did a thr
 
 News
 ------
+<!-- **03.04.2025** \
+I presented my work as an invited speaker at the [3rd Amsterdam / Saint-Etienne Workshop on Social Choice]([https://arxiv.org/abs/2405.20303) in the [COMSOC Video Seminar](https://www.comsocseminar.org/) ([link to video](https://www.youtube.com/watch?v=SaqzyTbrdcc). -->
+
+**18.12.2024** \
+I presented my paper [Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms](https://arxiv.org/abs/2405.20303) in the [COMSOC Video Seminar](https://www.comsocseminar.org/) ([link to video](https://www.youtube.com/watch?v=SaqzyTbrdcc)).
+
 **06.07.2024** \
 I won the "Best young scholar paper" award for my Paper [Anonymous and Copy-Robust Delegations for Liquid Democracy](https://arxiv.org/abs/2307.01174) at the [17th Meeting of the Society for Social Choice and Welfare](https://website-50514.eventmaker.io/en/index) in Paris.
 
 **09.04.2024** \
 I presented [pabuviz.org](https://pabuviz.org/) at the [1st Conference of the European Network for Digital Democracy](https://www.eddy-network.eu/in-person-conference) in Rotterdam.
 
+<!-- <details closed>
+  <summary>show more</summary>
+  Test
+</details> -->
+
 
 Publications
 ------
+**Pabuviz.org: A Visualisation Platform to Explore Participatory Budgeting Elections**\
+Markus Utke, Simon Rey, Ulle Endriss.\
+International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 2025. Forthcoming.\
+[Demo](https://pabuviz.org/)
+
 **Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms**\
 Mark de Berg, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
-May 2024.\
-[arXiv](https://arxiv.org/abs/2405.20303)
+Conference on Web and Internet Economics (WINE), December 2024.\
+[arXiv](https://arxiv.org/abs/2405.20303) · [Video Presentation](https://www.youtube.com/watch?v=SaqzyTbrdcc)
 
 **Anonymous and Copy-Robust Delegations for Liquid Democracy**\
 Markus Utke, Ulrike Schmidt-Kraepelin.\
