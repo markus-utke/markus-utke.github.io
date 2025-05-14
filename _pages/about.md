@@ -15,8 +15,8 @@ After finishing my Master's in computer science at TU Berlin in 2022 I did a thr
 
 News
 ------
-<!-- **03.04.2025** \
-I presented my work as an invited speaker at the [3rd Amsterdam / Saint-Etienne Workshop on Social Choice]([https://arxiv.org/abs/2405.20303) in the [COMSOC Video Seminar](https://www.comsocseminar.org/) ([link to video](https://www.youtube.com/watch?v=SaqzyTbrdcc). -->
+**03.04.2025** \
+I presented my work on budget aggregation as an invited speaker at the [3rd Amsterdam / Saint-Etienne Workshop on Social Choice]([https://sites.google.com/view/amsterdam-saint-etienne-2025/]).
 
 **18.12.2024** \
 I presented my paper [Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms](https://arxiv.org/abs/2405.20303) in the [COMSOC Video Seminar](https://www.comsocseminar.org/) ([link to video](https://www.youtube.com/watch?v=SaqzyTbrdcc)).
@@ -35,6 +35,11 @@ I presented [pabuviz.org](https://pabuviz.org/) at the [1st Conference of the Eu
 
 Publications
 ------
+**Discrete Budget Aggregation: Truthfulness and Proportionality**\
+Ulrike Schmidt-Kraepelin, Warut Suksompong, Markus Utke.\
+International Joint Conferences on Artificial Intelligence (IJCAI), August 2025. Forthcoming.\
+[arXiv](https://www.arxiv.org/abs/2505.05708)
+
 **Pabuviz.org: A Visualisation Platform to Explore Participatory Budgeting Elections**\
 Markus Utke, Simon Rey, Ulle Endriss.\
 International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 2025. Forthcoming.\
