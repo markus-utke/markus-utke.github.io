@@ -16,7 +16,7 @@ After finishing my Master's in computer science at TU Berlin in 2022 I did a thr
 News
 ------
 **03.04.2025** \
-I presented my work on budget aggregation as an invited speaker at the [3rd Amsterdam / Saint-Etienne Workshop on Social Choice]([https://sites.google.com/view/amsterdam-saint-etienne-2025/]).
+I presented my work on budget aggregation as an invited speaker at the [3rd Amsterdam / Saint-Etienne Workshop on Social Choice](https://sites.google.com/view/amsterdam-saint-etienne-2025/).
 
 **18.12.2024** \
 I presented my paper [Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms](https://arxiv.org/abs/2405.20303) in the [COMSOC Video Seminar](https://www.comsocseminar.org/) ([link to video](https://www.youtube.com/watch?v=SaqzyTbrdcc)).
