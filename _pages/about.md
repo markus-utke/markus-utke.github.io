@@ -38,7 +38,7 @@ Publications
 **City Sampling for Citizens' Assemblies**\
 Paul Gölz, Jan Maly, Ulrike Schmidt-Kraepelin, Markus Utke, Philipp C. Verpoort.\
 Preprint, August 2025.\
-[arXiv](https://www.arxiv.org/abs/2505.05708)
+[arXiv](https://arxiv.org/abs/2509.07557)
 
 
 **Discrete Budget Aggregation: Truthfulness and Proportionality**\
