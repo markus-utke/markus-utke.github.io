@@ -35,15 +35,21 @@ I presented [pabuviz.org](https://pabuviz.org/) at the [1st Conference of the Eu
 
 Publications
 ------
+**City Sampling for Citizens' Assemblies**\
+Paul Gölz, Jan Maly, Ulrike Schmidt-Kraepelin, Markus Utke, Philipp C. Verpoort.\
+Preprint, August 2025.\
+[arXiv](https://www.arxiv.org/abs/2505.05708)
+
+
 **Discrete Budget Aggregation: Truthfulness and Proportionality**\
 Ulrike Schmidt-Kraepelin, Warut Suksompong, Markus Utke.\
 International Joint Conferences on Artificial Intelligence (IJCAI), August 2025. Forthcoming.\
-[arXiv](https://www.arxiv.org/abs/2505.05708)
+[PDF](files/discrete_budget_aggregation.pdf) · [arXiv](https://www.arxiv.org/abs/2505.05708)
 
 **Pabuviz.org: A Visualisation Platform to Explore Participatory Budgeting Elections**\
 Markus Utke, Simon Rey, Ulle Endriss.\
-International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 2025. Forthcoming.\
-[Demo](https://pabuviz.org/)
+International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 2025.\
+[Demo](https://pabuviz.org/) · [PDF](files/pabuviz_aamas.pdf) · [Conference](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p3056.pdf)
 
 **Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms**\
 Mark de Berg, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
