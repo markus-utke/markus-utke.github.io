@@ -3,7 +3,7 @@
 import pandas as pd
 from dateutil import parser
 
-df = pd.read_excel('papers.ods')
+df = pd.read_excel('../papers.ods')
 output_lines = []
 
 for _, row in reversed(list(df.iterrows())):
@@ -41,7 +41,6 @@ for _, row in reversed(list(df.iterrows())):
     
     output_lines.append(block)
 
-# Combine all entries with a blank line between them
 markdown_output = "\n\n".join(output_lines)
 
 

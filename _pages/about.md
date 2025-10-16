@@ -48,7 +48,7 @@ Preprint, August 2025.\
 **Discrete Budget Aggregation: Truthfulness and Proportionality**\
 Ulrike Schmidt-Kraepelin, Warut Suksompong, Markus Utke.\
 International Joint Conferences on Artificial Intelligence (IJCAI), August 2025.\
-[PDF](files/discrete_budget_aggregation.pdf) · [arXiv](https://arxiv.org/abs/2505.05708)
+[PDF](files/discrete_budget_aggregation.pdf) · [arXiv](https://arxiv.org/abs/2505.05708) · [Poster](files/discrete_budget_aggregation_poster.pdf)
 
 **Pabuviz.org: A Visualisation Platform to Explore Participatory Budgeting Elections**\
 Markus Utke, Simon Rey, Ulle Endriss.\
@@ -58,7 +58,7 @@ International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Ma
 **Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms**\
 Mark de Berg, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
 Conference on Web and Internet Economics (WINE), December 2024.\
-[arXiv](https://arxiv.org/abs/2405.20303) · [Video Presentation](https://www.youtube.com/watch?v=SaqzyTbrdcc)
+[PDF](files/beyond_phantoms.pdf) · [arXiv](https://arxiv.org/abs/2405.20303) · [Video Presentation](https://www.youtube.com/watch?v=SaqzyTbrdcc)
 
 **Anonymous and Copy-Robust Delegations for Liquid Democracy**\
 Markus Utke, Ulrike Schmidt-Kraepelin.\
