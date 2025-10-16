@@ -35,16 +35,20 @@ I presented [pabuviz.org](https://pabuviz.org/) at the [1st Conference of the Eu
 
 Publications
 ------
+**Mixed Voting Rules for Participatory Budgeting**\
+Anton Baychkov, Markus Brill, Markus Utke.\
+Preprint, August 2025.\
+[PDF](files/mixed_PB.pdf)
+
 **City Sampling for Citizens' Assemblies**\
 Paul Gölz, Jan Maly, Ulrike Schmidt-Kraepelin, Markus Utke, Philipp C. Verpoort.\
 Preprint, August 2025.\
 [arXiv](https://arxiv.org/abs/2509.07557)
 
-
 **Discrete Budget Aggregation: Truthfulness and Proportionality**\
 Ulrike Schmidt-Kraepelin, Warut Suksompong, Markus Utke.\
-International Joint Conferences on Artificial Intelligence (IJCAI), August 2025. Forthcoming.\
-[PDF](files/discrete_budget_aggregation.pdf) · [arXiv](https://www.arxiv.org/abs/2505.05708)
+International Joint Conferences on Artificial Intelligence (IJCAI), August 2025.\
+[PDF](files/discrete_budget_aggregation.pdf) · [arXiv](https://arxiv.org/abs/2505.05708)
 
 **Pabuviz.org: A Visualisation Platform to Explore Participatory Budgeting Elections**\
 Markus Utke, Simon Rey, Ulle Endriss.\
@@ -61,7 +65,7 @@ Markus Utke, Ulrike Schmidt-Kraepelin.\
 Advances in Neural Information Processing Systems 36 (NeurIPS 2023), December 2023.\
 [PDF](files/Anonymous_and_Copy-Robust_Delegations_for_Liquid_Democracy.pdf) · [Conference](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbb5180957513805ebeea787b8c66ac9-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2307.01174) · [Poster](files/Anonymous_and_Copy-Robust_Delegations_for_Liquid_Democracy_Poster.pdf)
 
-**NDNetGaming - development of a no-reference deep CNN for gaming video quality prediction**\
+**NDNetGaming – development of a no-reference deep CNN for gaming video quality prediction**\
 Markus Utke, Saman Zadtootaghaj, Steven Schmidt, Sebastian Bosse, Sebastian Möller.\
 Multimedia Tools and Applications, July 2020.\
 [PDF](files/NDNetGaming.pdf) · [Journal](https://link.springer.com/article/10.1007/s11042-020-09144-6)
