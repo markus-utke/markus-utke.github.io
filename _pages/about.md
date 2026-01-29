@@ -35,6 +35,10 @@ I presented [pabuviz.org](https://pabuviz.org/) at the [1st Conference of the Eu
 
 Publications
 ------
+**Social Welfare in Budget Aggregation**\
+Javier Cembrano, Rupert Freeman, Urlike Schmidt-Kraepelin, Markus Utke.\
+Preprint, January 2026.\
+
 **Mixed Voting Rules for Participatory Budgeting**\
 Anton Baychkov, Markus Brill, Markus Utke.\
 Preprint, August 2025.\
@@ -42,13 +46,13 @@ Preprint, August 2025.\
 
 **City Sampling for Citizens' Assemblies**\
 Paul Gölz, Jan Maly, Ulrike Schmidt-Kraepelin, Markus Utke, Philipp C. Verpoort.\
-Preprint, August 2025.\
-[arXiv](https://arxiv.org/abs/2509.07557)
+Annual AAAI Conference on Artificial Intelligence (AAAI), January 2026.\
+[PDF](files/city_sampling.pdf) · [arXiv](https://arxiv.org/abs/2509.07557)
 
 **Discrete Budget Aggregation: Truthfulness and Proportionality**\
 Ulrike Schmidt-Kraepelin, Warut Suksompong, Markus Utke.\
 International Joint Conferences on Artificial Intelligence (IJCAI), August 2025.\
-[PDF](files/discrete_budget_aggregation.pdf) · [arXiv](https://arxiv.org/abs/2505.05708) · [Poster](files/discrete_budget_aggregation_poster.pdf)
+[PDF](files/discrete_budget_aggregation.pdf) · [Conference](https://www.ijcai.org/proceedings/2025/450) · [arXiv](https://arxiv.org/abs/2505.05708) · [Poster](files/discrete_budget_aggregation_poster.pdf)
 
 **Pabuviz.org: A Visualisation Platform to Explore Participatory Budgeting Elections**\
 Markus Utke, Simon Rey, Ulle Endriss.\
@@ -69,6 +73,7 @@ Advances in Neural Information Processing Systems 36 (NeurIPS 2023), December 20
 Markus Utke, Saman Zadtootaghaj, Steven Schmidt, Sebastian Bosse, Sebastian Möller.\
 Multimedia Tools and Applications, July 2020.\
 [PDF](files/NDNetGaming.pdf) · [Journal](https://link.springer.com/article/10.1007/s11042-020-09144-6)
+
 
 
 Other projects
