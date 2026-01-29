@@ -37,7 +37,7 @@ Publications
 ------
 **Social Welfare in Budget Aggregation**\
 Javier Cembrano, Rupert Freeman, Urlike Schmidt-Kraepelin, Markus Utke.\
-Preprint, January 2026.\
+Preprint, January 2026.
 
 **Mixed Voting Rules for Participatory Budgeting**\
 Anton Baychkov, Markus Brill, Markus Utke.\

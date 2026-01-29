@@ -33,10 +33,12 @@ for _, row in reversed(list(df.iterrows())):
     links_str = " · ".join(links)
     
     block = (
-        f"**{title}**\\\n"
-        f"{authors}.\\\n"
-        f"{venue}, {date}.\\\n"
-        f"{links_str}"
+        f"**{title}**" + 
+        "\\\n" +
+        f"{authors}." +
+        "\\\n" +
+        f"{venue}, {date}." + 
+        (("\\\n" + f"{links_str}") if len(links) > 0 else "")
     )
     
     output_lines.append(block)
