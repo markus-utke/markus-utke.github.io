@@ -36,7 +36,7 @@ I presented [pabuviz.org](https://pabuviz.org/) at the [1st Conference of the Eu
 Publications
 ------
 **Social Welfare in Budget Aggregation**\
-Javier Cembrano, Rupert Freeman, Urlike Schmidt-Kraepelin, Markus Utke.\
+Javier Cembrano, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
 Preprint, January 2026.
 
 **Mixed Voting Rules for Participatory Budgeting**\
