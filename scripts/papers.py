@@ -93,3 +93,46 @@ for _, row in reversed(list(df.iterrows())):
 latex_output = "\n".join(output_lines)
 
 print(latex_output)
+
+#%%
+
+
+df = pd.read_excel('../papers.ods', na_filter="")
+output_lines = []
+
+df = df.sort_values("date")
+
+last_year = ""
+for _, row in reversed(list(df.iterrows())):
+    title = row["title"]
+    authors = row["authors"]
+    venue = row["conference"]
+    year = row["date"].strftime("%Y")
+    details = row["details"]
+    
+    if venue != "Preprint":
+        continue
+    
+    show_year = True
+    if year == last_year:
+        show_year = False
+    else:
+        last_year = year
+
+    line = (
+        r"\cventry{" + (year if show_year else "") + 
+        r"}{" + 
+        title + 
+        r"}{" + 
+        r"\newline " + authors + '.' +
+        r"}{}{}{" + 
+        venue + 
+        ((r"\newline " + details.replace("%", r"\%") + '.') if details else "") +
+        r"}"
+    )
+    
+    output_lines.append(line)
+
+latex_output = "\n".join(output_lines)
+
+print(latex_output)

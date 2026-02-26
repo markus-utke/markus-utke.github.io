@@ -37,11 +37,12 @@ Publications
 ------
 **Social Welfare in Budget Aggregation**\
 Javier Cembrano, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
-Preprint, January 2026.
+Preprint, January 2026.\
+[PDF](files/welfare_budget_aggregation.pdf)
 
 **Mixed Voting Rules for Participatory Budgeting**\
 Anton Baychkov, Markus Brill, Markus Utke.\
-Preprint, August 2025.\
+Preprint, January 2026.\
 [PDF](files/mixed_PB.pdf)
 
 **City Sampling for Citizens' Assemblies**\
@@ -66,7 +67,7 @@ Conference on Web and Internet Economics (WINE), December 2024.\
 
 **Anonymous and Copy-Robust Delegations for Liquid Democracy**\
 Markus Utke, Ulrike Schmidt-Kraepelin.\
-Advances in Neural Information Processing Systems 36 (NeurIPS 2023), December 2023.\
+Advances in Neural Information Processing Systems 36 (NeurIPS), December 2023.\
 [PDF](files/Anonymous_and_Copy-Robust_Delegations_for_Liquid_Democracy.pdf) · [Conference](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbb5180957513805ebeea787b8c66ac9-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2307.01174) · [Poster](files/Anonymous_and_Copy-Robust_Delegations_for_Liquid_Democracy_Poster.pdf)
 
 **NDNetGaming – development of a no-reference deep CNN for gaming video quality prediction**\
