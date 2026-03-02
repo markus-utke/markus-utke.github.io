@@ -136,3 +136,4 @@ for _, row in reversed(list(df.iterrows())):
 latex_output = "\n".join(output_lines)
 
 print(latex_output)
+# %%
