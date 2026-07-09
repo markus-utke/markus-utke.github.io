@@ -37,18 +37,18 @@ Publications
 ------
 **Social Welfare in Budget Aggregation**\
 Javier Cembrano, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
-Preprint, January 2026.\
-[PDF](files/welfare_budget_aggregation.pdf) · [arXiv](https://arxiv.org/abs/2602.23027)
+ACM Conference on Economics and Computation (EC), July 2026.\
+[PDF](files/welfare_budget_aggregation.pdf) · [arXiv](https://arxiv.org/abs/2602.23027) · [Presentation](files/Social_Welfare_in_Budget_Aggregation_20min_unlinked.pptx)
 
 **Mixed Voting Rules for Participatory Budgeting**\
 Anton Baychkov, Markus Brill, Markus Utke.\
-Preprint, January 2026.\
+ACM Conference on Economics and Computation (EC), July 2026.\
 [PDF](files/mixed_PB.pdf)
 
 **City Sampling for Citizens' Assemblies**\
 Paul Gölz, Jan Maly, Ulrike Schmidt-Kraepelin, Markus Utke, Philipp C. Verpoort.\
 Annual AAAI Conference on Artificial Intelligence (AAAI), January 2026.\
-[PDF](files/city_sampling.pdf) · [arXiv](https://arxiv.org/abs/2509.07557)
+[PDF](files/city_sampling.pdf) · [Conference](https://ojs.aaai.org/index.php/AAAI/article/view/38744) · [arXiv](https://arxiv.org/abs/2509.07557)
 
 **Discrete Budget Aggregation: Truthfulness and Proportionality**\
 Ulrike Schmidt-Kraepelin, Warut Suksompong, Markus Utke.\
