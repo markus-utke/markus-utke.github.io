@@ -35,15 +35,20 @@ I presented [pabuviz.org](https://pabuviz.org/) at the [1st Conference of the Eu
 
 Publications
 ------
+**Approval-Based Multiwinner Voting with Candidate Qualities**\
+Niclas Boehmer, Chris Dong, Luca Kreisel, Markus Utke.\
+Preprint, September 2026.\
+[PDF](files/candidate_qualities.pdf) · [arXiv](https://arxiv.org/pdf/2609.08830)
+
 **Social Welfare in Budget Aggregation**\
 Javier Cembrano, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
 ACM Conference on Economics and Computation (EC), July 2026.\
-[PDF](files/welfare_budget_aggregation.pdf) · [arXiv](https://arxiv.org/abs/2602.23027) · [Presentation](files/Social_Welfare_in_Budget_Aggregation_20min_unlinked.pptx)
+[PDF](files/welfare_budget_aggregation.pdf) · [arXiv](https://arxiv.org/abs/2602.23027)
 
 **Mixed Voting Rules for Participatory Budgeting**\
 Anton Baychkov, Markus Brill, Markus Utke.\
 ACM Conference on Economics and Computation (EC), July 2026.\
-[PDF](files/mixed_PB.pdf)
+[PDF](files/mixed_PB.pdf) · [arXiv](https://arxiv.org/abs/2606.23320)
 
 **City Sampling for Citizens' Assemblies**\
 Paul Gölz, Jan Maly, Ulrike Schmidt-Kraepelin, Markus Utke, Philipp C. Verpoort.\
