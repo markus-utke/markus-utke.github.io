@@ -15,6 +15,12 @@ After finishing my Master's in computer science at TU Berlin in 2022 I did a thr
 
 News
 ------
+**19.05.2026** \
+I had [two papers](#publications) accepted to this year's ACM Conference on Economics and Computation (EC).
+
+**04.05.2026** \
+I will be visiting [Niclas Böhmer](https://hpi.de/en/boehmer/team/niclas-boehmer/) for two weeks at the Hasso-Plattner-Institut in Potsdam.
+
 **03.04.2025** \
 I presented my work on budget aggregation as an invited speaker at the [3rd Amsterdam / Saint-Etienne Workshop on Social Choice](https://sites.google.com/view/amsterdam-saint-etienne-2025/).
 
