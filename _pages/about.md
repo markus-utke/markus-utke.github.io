@@ -44,7 +44,7 @@ Publications
 **Approval-Based Multiwinner Voting with Candidate Qualities**\
 Niclas Boehmer, Chris Dong, Luca Kreisel, Markus Utke.\
 Preprint, September 2026.\
-[PDF](files/candidate_qualities.pdf) · [arXiv](https://arxiv.org/pdf/2609.08830)
+[PDF](files/candidate_qualities.pdf) · [arXiv](https://arxiv.org/abs/2609.08830)
 
 **Social Welfare in Budget Aggregation**\
 Javier Cembrano, Rupert Freeman, Ulrike Schmidt-Kraepelin, Markus Utke.\
